@@ -1,9 +1,11 @@
 # FrozenFlow | Logistics Control Tower
 
+![FrozenFlow promotional banner](banner.png)
+
 An independent, interactive portfolio prototype by **VB (Venkateswararao Banday)**, inspired by the Head of Logistics & Warehousing vacancy at FreshAsia Foods, Erith, UK. It is not affiliated with or endorsed by FreshAsia.
 
 ## Run the app
-Open `index.html` in a modern browser. No dependencies, server, API key or build process required.
+Open `index.html` in a modern browser. No dependencies, server, API key or build process required. The updated promotional banner is embedded directly in the Overview page, so it also works offline.
 
 ## Publish on GitHub Pages
 1. Create a new public GitHub repository, e.g. `frozenflow-control-tower`.
